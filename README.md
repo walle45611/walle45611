@@ -3,9 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walle45611&label=Profile%20views&color=0e75b6&style=flat" alt="walle45611" /> </p>
 
-- Notion [https://rose-produce-df0.notion.site/NTUB-186c1153b7694fd1a4698bf550fba508?pvs=4](https://rose-produce-df0.notion.site/NTUB-186c1153b7694fd1a4698bf550fba508?pvs=4)
-
-- 💬 Ask me about **Fullstack**
+- 💬 Ask me about **Angular,React,Cisco,Linux,Windows Server**
 
 - 📫 How to reach me **11146001@ntub.edu.tw**
 
