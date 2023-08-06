@@ -1,5 +1,5 @@
 <h1 align="center">Hi👏, I'm walle</h1>
-<h3 align="center">國立台北商業大學 NTUB</h3>
+<h3 align="center">A passionate student from Taiwan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=walle45611&label=Profile%20views&color=0e75b6&style=flat" alt="walle45611" /> </p>
 
