@@ -1,5 +1,12 @@
-<h1 align="center">我是 何國瑋</h1>
 <h3 align="center">國立台北商業大學 NTUB</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=walle45611&label=Profile%20views&color=0e75b6&style=flat" alt="walle45611" /> </p>
+
+- Notion [https://rose-produce-df0.notion.site/NTUB-186c1153b7694fd1a4698bf550fba508?pvs=4](https://rose-produce-df0.notion.site/NTUB-186c1153b7694fd1a4698bf550fba508?pvs=4)
+
+- 💬 Ask me about **Fullstack**
+
+- 📫 How to reach me **11146001@ntub.edu.tw**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
