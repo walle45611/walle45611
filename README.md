@@ -6,12 +6,9 @@
 
 - 🎓 Student from Taiwan
 - 💬 Ask me about **Angular, React, Cisco, Linux, Windows Server, C#, .NET**
-- 📫 Reach me at **11146001@ntub.edu.tw**
+- 📫 Reach me at **walle4561@gmail.com**
+- 🌲 **[Find me on Linktree](https://linktr.ee/walle4561)**
 
-## Connect with Me
-
-- [Instagram](https://instagram.com/walle4561)
-- [LinkedIn](https://www.linkedin.com/in/walle4561/)
 
 ## Languages and Tools
 
